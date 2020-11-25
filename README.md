@@ -3,8 +3,8 @@
 
 ## Clients
 
-- running client = 
+- running client = numpy
 
 ## Pull Request
 
-- current pr = 
+- current pr = https://github.com/MkayButters/chess-board/pull/1
